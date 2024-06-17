@@ -4,3 +4,5 @@ joblib
 numpy
 func_timeout
 OppOpPopInit==2.0.0
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
